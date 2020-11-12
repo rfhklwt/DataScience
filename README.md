@@ -14,7 +14,12 @@ There are three main components in this tutorial.
 
 # The Pluto notebook(static view)
 
-[**01.data.jl**](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rfhklwt/DataScience/master/html/01.Data.jl.html)
+[**01.data**](https://htmlpreview.github.io/?https://raw.githubusercontent.com/rfhklwt/DataScience/master/html/01.Data.jl.html)
+
+[**02.LinearAlgebra**](https://htmlpreview.github.io/?https://github.com/rfhklwt/DataScience/blob/master/html/02.LinearAlgebra.jl.html)
+
+[**03.Statistics**](https://htmlpreview.github.io/?https://github.com/rfhklwt/DataScience/blob/master/html/03.Statistics.jl.html)
+
+[**04.Dimensionality Reduction**](https://htmlpreview.github.io/?https://github.com/rfhklwt/DataScience/blob/master/html/04.Dimensionality%20Reduction.jl.html)
 
 ...
-
